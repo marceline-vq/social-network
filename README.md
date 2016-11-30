@@ -1,2 +1,1 @@
-# social-network
-Web Programming Django Project
+# web-dev
